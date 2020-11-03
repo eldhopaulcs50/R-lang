@@ -8,7 +8,7 @@ Growth.rate	Water	Detergent	Daphnia
 4.870958803	Tyne	BrandA	Clone3
 3.897731347	Tyne	BrandA	Clone3
 5.830881925	Tyne	BrandA	Clone3
-2.3027171	Tyne	BrandB	Clone1
+2.3027171	  Tyne	BrandB	Clone1
 3.195969626	Tyne	BrandB	Clone1
 2.829021095	Tyne	BrandB	Clone1
 3.027499621	Tyne	BrandB	Clone2
@@ -62,7 +62,7 @@ Growth.rate	Water	Detergent	Daphnia
 2.015706722	Wear	BrandC	Clone3
 3.467041808	Wear	BrandC	Clone3
 5.028927385	Wear	BrandC	Clone3
-2.3071735	Wear	BrandD	Clone1
+2.3071735	  Wear	BrandD	Clone1
 2.96227354	Wear	BrandD	Clone1
 2.69976154	Wear	BrandD	Clone1
 6.569411852	Wear	BrandD	Clone2
